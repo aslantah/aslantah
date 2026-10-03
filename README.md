@@ -1,4 +1,4 @@
-Hi, I’m Aslan Taheri. I’m interested in quantitative investment research, signal development, and portfolio construction. I’ll begin Berkeley’s Master of Financial Engineering program in January 2027, building on a computational design background at Yale.
+I’m interested in quantitative investment research, signal development, and portfolio construction. I’ll begin Berkeley’s Master of Financial Engineering program in January 2027, building on a computational design background at Yale.
 
 My research starts with an economic hypothesis, then tests what the data can actually support.
 
